@@ -1,4 +1,4 @@
-# TaskMaster - A To-Do List Application
+# To-Do List Application
 
 A simple command-line To-Do List application in Python.
 
@@ -45,3 +45,18 @@ Install dependencies using:
 
 ```bash
 pip install colorama cursor
+```
+## Authors
+
+- [@kamesh](https://www.github.com/hack505)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Contributing
+
+Contributions are always welcome!
+
